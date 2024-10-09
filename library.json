@@ -1,0 +1,23 @@
+{
+    "name": "arduino-lib-robot-ominiw",
+    "keywords": "Robot omniw",
+    "description": "Robot Omniw Lib",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/grabanzo/arduino-lib-robot-omniw.git"
+    },
+    "authors":
+    [
+      {
+        "name": "mriosalido",
+        "email": "",
+        "url": "https://github.com/grabanzo",
+        "maintainer": true
+      }
+    ],
+    "license":"MIT",
+    "version": "0.0.1",
+    "frameworks": "*",
+    "platforms": "*"
+  }
